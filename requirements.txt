@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+timm
+pandas
+numpy>=1.23.0
+pillow>=9.0.0
+scikit-learn>=1.2.0
+matplotlib>=3.5.0
+joblib>=1.2.0
+kaggle>=1.5.12
+tqdm>=4.65.0
+opencv-python
+tensorflow
